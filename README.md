@@ -20,7 +20,7 @@ and community-led developer ecosystems through [Codera](https://github.com/sanja
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
-<samp>python &nbsp; typescript &nbsp; javascript &nbsp; react &nbsp; next.js &nbsp; node.js &nbsp; fastapi &nbsp; postgres &nbsp; mongodb &nbsp; firebase &nbsp; tailwind &nbsp; docker &nbsp; git &nbsp; linux</samp>
+<img src="./stack.svg" width="620" alt="stack"/>
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
