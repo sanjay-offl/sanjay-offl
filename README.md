@@ -3,8 +3,8 @@
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
 [github.com/sanjay-offl](https://github.com/sanjay-offl) &nbsp;·&nbsp;
-[linkedin](https://www.linkedin.com/in/sanjay-offl/) &nbsp;·&nbsp;
-[email](mailto:sanjay@example.com)
+[linkedin](https://www.linkedin.com/in/sanjayoffl24/) &nbsp;·&nbsp;
+[email](mailto:sanjayoffl24@gmail.com)
 </div>
 
 <img src="./hd-about.svg" width="620" alt="about"/>
