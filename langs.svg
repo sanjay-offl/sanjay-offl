@@ -2,12 +2,12 @@
 <rect width="620" height="130" fill="transparent"/>
 <text x="20" y="22" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#8b949e" text-anchor="start">top languages · public repos</text>
 <rect x="20" y="32" width="317" height="12" fill="#2b7489" rx="2"/>
-<rect x="337" y="32" width="105" height="12" fill="#3572A5" rx="2"/>
-<rect x="442" y="32" width="60" height="12" fill="#f1e05a" rx="2"/>
-<rect x="502" y="32" width="29" height="12" fill="#563d7c" rx="2"/>
-<rect x="531" y="32" width="26" height="12" fill="#8b949e" rx="2"/>
-<rect x="557" y="32" width="19" height="12" fill="#8b949e" rx="2"/>
-<rect x="576" y="32" width="17" height="12" fill="#8b949e" rx="2"/>
+<rect x="337" y="32" width="104" height="12" fill="#3572A5" rx="2"/>
+<rect x="441" y="32" width="60" height="12" fill="#f1e05a" rx="2"/>
+<rect x="501" y="32" width="29" height="12" fill="#563d7c" rx="2"/>
+<rect x="530" y="32" width="26" height="12" fill="#8b949e" rx="2"/>
+<rect x="556" y="32" width="19" height="12" fill="#8b949e" rx="2"/>
+<rect x="575" y="32" width="18" height="12" fill="#8b949e" rx="2"/>
 <rect x="593" y="32" width="4" height="12" fill="#8b949e" rx="2"/>
 <rect x="20" y="55" width="8" height="8" fill="#2b7489" rx="1"/>
 <text x="34" y="62" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#c9d1d9" text-anchor="start">TypeScript</text>
