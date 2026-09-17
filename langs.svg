@@ -1,35 +1,35 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="620" height="130" viewBox="0 0 620 130">
 <rect width="620" height="130" fill="transparent"/>
 <text x="20" y="22" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#8b949e" text-anchor="start">top languages · public repos</text>
-<rect x="20" y="32" width="313" height="12" fill="#2b7489" rx="2"/>
-<rect x="333" y="32" width="116" height="12" fill="#3572A5" rx="2"/>
-<rect x="449" y="32" width="57" height="12" fill="#f1e05a" rx="2"/>
-<rect x="506" y="32" width="27" height="12" fill="#563d7c" rx="2"/>
+<rect x="20" y="32" width="309" height="12" fill="#2b7489" rx="2"/>
+<rect x="329" y="32" width="114" height="12" fill="#3572A5" rx="2"/>
+<rect x="443" y="32" width="62" height="12" fill="#f1e05a" rx="2"/>
+<rect x="505" y="32" width="28" height="12" fill="#563d7c" rx="2"/>
 <rect x="533" y="32" width="24" height="12" fill="#8b949e" rx="2"/>
 <rect x="557" y="32" width="18" height="12" fill="#8b949e" rx="2"/>
 <rect x="575" y="32" width="17" height="12" fill="#8b949e" rx="2"/>
 <rect x="592" y="32" width="4" height="12" fill="#8b949e" rx="2"/>
 <rect x="20" y="55" width="8" height="8" fill="#2b7489" rx="1"/>
 <text x="34" y="62" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#c9d1d9" text-anchor="start">TypeScript</text>
-<text x="134" y="62" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#8b949e" text-anchor="start">54.0%</text>
+<text x="134" y="62" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#8b949e" text-anchor="start">53.3%</text>
 <rect x="20" y="72" width="8" height="8" fill="#3572A5" rx="1"/>
 <text x="34" y="79" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#c9d1d9" text-anchor="start">Python</text>
-<text x="134" y="79" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#8b949e" text-anchor="start">20.1%</text>
+<text x="134" y="79" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#8b949e" text-anchor="start">19.8%</text>
 <rect x="20" y="89" width="8" height="8" fill="#f1e05a" rx="1"/>
 <text x="34" y="96" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#c9d1d9" text-anchor="start">JavaScript</text>
-<text x="134" y="96" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#8b949e" text-anchor="start">9.9%</text>
+<text x="134" y="96" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#8b949e" text-anchor="start">10.8%</text>
 <rect x="20" y="106" width="8" height="8" fill="#563d7c" rx="1"/>
 <text x="34" y="113" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#c9d1d9" text-anchor="start">CSS</text>
-<text x="134" y="113" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#8b949e" text-anchor="start">4.8%</text>
+<text x="134" y="113" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#8b949e" text-anchor="start">5.0%</text>
 <rect x="320" y="55" width="8" height="8" fill="#8b949e" rx="1"/>
 <text x="334" y="62" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#c9d1d9" text-anchor="start">Makefile</text>
-<text x="434" y="62" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#8b949e" text-anchor="start">4.3%</text>
+<text x="434" y="62" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#8b949e" text-anchor="start">4.2%</text>
 <rect x="320" y="72" width="8" height="8" fill="#8b949e" rx="1"/>
 <text x="334" y="79" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#c9d1d9" text-anchor="start">SCSS</text>
 <text x="434" y="79" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#8b949e" text-anchor="start">3.2%</text>
 <rect x="320" y="89" width="8" height="8" fill="#8b949e" rx="1"/>
 <text x="334" y="96" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#c9d1d9" text-anchor="start">Astro</text>
-<text x="434" y="96" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#8b949e" text-anchor="start">3.0%</text>
+<text x="434" y="96" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#8b949e" text-anchor="start">2.9%</text>
 <rect x="320" y="106" width="8" height="8" fill="#8b949e" rx="1"/>
 <text x="334" y="113" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#c9d1d9" text-anchor="start">C++</text>
 <text x="434" y="113" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#8b949e" text-anchor="start">0.7%</text>
