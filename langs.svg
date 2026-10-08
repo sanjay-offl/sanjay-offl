@@ -11,13 +11,13 @@
 <rect x="591" y="32" width="4" height="12" fill="#8b949e" rx="2"/>
 <rect x="20" y="55" width="8" height="8" fill="#2b7489" rx="1"/>
 <text x="34" y="62" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#c9d1d9" text-anchor="start">TypeScript</text>
-<text x="134" y="62" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#8b949e" text-anchor="start">60.1%</text>
+<text x="134" y="62" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#8b949e" text-anchor="start">60.2%</text>
 <rect x="20" y="72" width="8" height="8" fill="#3572A5" rx="1"/>
 <text x="34" y="79" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#c9d1d9" text-anchor="start">Python</text>
 <text x="134" y="79" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#8b949e" text-anchor="start">15.3%</text>
 <rect x="20" y="89" width="8" height="8" fill="#f1e05a" rx="1"/>
 <text x="34" y="96" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#c9d1d9" text-anchor="start">JavaScript</text>
-<text x="134" y="96" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#8b949e" text-anchor="start">9.5%</text>
+<text x="134" y="96" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#8b949e" text-anchor="start">9.4%</text>
 <rect x="20" y="106" width="8" height="8" fill="#563d7c" rx="1"/>
 <text x="34" y="113" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#c9d1d9" text-anchor="start">CSS</text>
 <text x="134" y="113" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#8b949e" text-anchor="start">5.4%</text>
