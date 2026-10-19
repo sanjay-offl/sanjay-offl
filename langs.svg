@@ -11,7 +11,7 @@
 <rect x="592" y="32" width="4" height="12" fill="#8b949e" rx="2"/>
 <rect x="20" y="55" width="8" height="8" fill="#2b7489" rx="1"/>
 <text x="34" y="62" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#c9d1d9" text-anchor="start">TypeScript</text>
-<text x="134" y="62" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#8b949e" text-anchor="start">60.7%</text>
+<text x="134" y="62" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#8b949e" text-anchor="start">60.6%</text>
 <rect x="20" y="72" width="8" height="8" fill="#3572A5" rx="1"/>
 <text x="34" y="79" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#c9d1d9" text-anchor="start">Python</text>
 <text x="134" y="79" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#8b949e" text-anchor="start">13.7%</text>
@@ -23,7 +23,7 @@
 <text x="134" y="113" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#8b949e" text-anchor="start">5.0%</text>
 <rect x="320" y="55" width="8" height="8" fill="#8b949e" rx="1"/>
 <text x="334" y="62" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#c9d1d9" text-anchor="start">Kotlin</text>
-<text x="434" y="62" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#8b949e" text-anchor="start">4.3%</text>
+<text x="434" y="62" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#8b949e" text-anchor="start">4.4%</text>
 <rect x="320" y="72" width="8" height="8" fill="#8b949e" rx="1"/>
 <text x="334" y="79" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#c9d1d9" text-anchor="start">Makefile</text>
 <text x="434" y="79" font-family="'JetBrains Mono','Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" font-weight="normal" fill="#8b949e" text-anchor="start">4.1%</text>
